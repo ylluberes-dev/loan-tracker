@@ -6,7 +6,7 @@ import lombok.Getter;
 public enum CompoundPerPeriod {
 
     DAILY(365),
-    WEEKLY(54),
+    WEEKLY(52),
     BIWEEKLY(25),
     MONTHLY(12),
     BIMONTHLY(6),
